@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment02LINQ", "Assignment02LINQ\Assignment02LINQ.csproj", "{7FBF6B75-1F9A-4837-9FD0-81DFAAB18F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBF6B75-1F9A-4837-9FD0-81DFAAB18F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBF6B75-1F9A-4837-9FD0-81DFAAB18F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBF6B75-1F9A-4837-9FD0-81DFAAB18F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBF6B75-1F9A-4837-9FD0-81DFAAB18F95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

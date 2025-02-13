@@ -1,0 +1,14 @@
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\bin\Debug\net9.0\Assignment02LINQ.exe
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\bin\Debug\net9.0\Assignment02LINQ.deps.json
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\bin\Debug\net9.0\Assignment02LINQ.runtimeconfig.json
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\bin\Debug\net9.0\Assignment02LINQ.dll
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\bin\Debug\net9.0\Assignment02LINQ.pdb
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\obj\Debug\net9.0\Assignment02LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\obj\Debug\net9.0\Assignment02LINQ.AssemblyInfoInputs.cache
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\obj\Debug\net9.0\Assignment02LINQ.AssemblyInfo.cs
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\obj\Debug\net9.0\Assignment02LINQ.csproj.CoreCompileInputs.cache
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\obj\Debug\net9.0\Assignment02LINQ.dll
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\obj\Debug\net9.0\refint\Assignment02LINQ.dll
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\obj\Debug\net9.0\Assignment02LINQ.pdb
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\obj\Debug\net9.0\Assignment02LINQ.genruntimeconfig.cache
+C:\Users\TheRe\RiderProjects\Assignment02LINQ\Assignment02LINQ\obj\Debug\net9.0\ref\Assignment02LINQ.dll
